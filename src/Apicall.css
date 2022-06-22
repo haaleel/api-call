@@ -1,0 +1,15 @@
+ .top{
+font-size: large;
+justify-content: space-between;
+   display: flex;
+   border: 1px solid;
+  padding: 10px;
+  box-shadow: 1px 02px #888888;
+}
+ 
+.categories{
+   display: flex;
+  
+   justify-content: space-between;
+   margin: 20px 0 12px 0;
+}
